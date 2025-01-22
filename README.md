@@ -1,0 +1,1 @@
+This repository contains a COBOL program that demonstrates a common error related to uninitialized table entries.  The program uses a table, but doesn't properly handle the scenario where the table entries are not initialized. This can lead to unexpected results or runtime errors.  The solution shows how to improve the code to avoid this issue.
